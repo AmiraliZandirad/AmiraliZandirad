@@ -1,7 +1,7 @@
 # Hi there👋  ![](https://komarev.com/ghpvc/?username=AmiraliZandirad1&color=green&&style=flat)  [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/AmiraliZandirad1) 
 
 
-<img src="https://raw.githubusercontent.com/AmiraliZandirad1/AmiraliZandirad1/b89d8634b7e7801b280a7f81b406fcf38fe1c7ec/github-contribution-grid-snake.svg" alt="just for fun :D">
+<img src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/250d6af04a65ff1f44c627afe80309f951e0a1dd/github-contribution-grid-snake.svg" alt="just for fun :D">
 
 ## how I am ? 🤔
 ```py
@@ -34,14 +34,14 @@ class Amirali(Human) :
 ```
 <br>
 <h2 align="left">🌱I am currently learning these:</h2>
-<h3 align="left">🔮 html | 30%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandirad1/AmiraliZandirad1/main/bar.png" width="150px" height="16px">
+<h3 align="left">🔮 html | 30%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="150px" height="16px">
 <br>
-<h3 align="left">🔮 css | 55%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandirad1/AmiraliZandirad1/main/bar.png" width="275px" height="16px">
+<h3 align="left">🔮 css | 55%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="275px" height="16px">
 <br>
-<h3 align="left">🔮 wordprees | 75%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandirad1/AmiraliZandirad1/main/bar.png" width="475px" height="16px">
+<h3 align="left">🔮 wordprees | 75%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="475px" height="16px">
 <br>
 <br>
-<h3 align="left">🔮 Python | 90%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandirad1/AmiraliZandirad1/main/bar.png" width="600px" height="16px">
+<h3 align="left">🔮 Python | 90%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="600px" height="16px">
 <br>
 
 ## 🚀 Languages and Tools:
@@ -57,6 +57,6 @@ class Amirali(Human) :
 ### :octocat: Github Statistics
 
 <p align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=AmiraliZandirad1&show_icons=true&theme=radical" alt="AmiraliZandirad1" width="480" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiraliZandirad1&layout=compact&hide=html&theme=radical" alt="AmiraliZandirad1"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=AmiraliZandi&show_icons=true&theme=radical" alt="AmiraliZandi" width="480" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiraliZandi&layout=compact&hide=html&theme=radical" alt="AmiraliZandi"/>
 </p>
