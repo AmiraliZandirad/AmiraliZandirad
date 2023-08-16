@@ -32,10 +32,15 @@ class Amirali(Human) :
     working_on = ["level up my skills", "school website"]
 
 ```
+
+
 <br>
 <h2 align="left">🌱I am currently learning these:</h2>
+<h3 align="left">🔮 java | 20%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="120px" height="16px">
+<br>
 <h3 align="left">🔮 html | 30%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="150px" height="16px">
 <br>
+
 <h3 align="left">🔮 css | 55%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="275px" height="16px">
 <br>
 <h3 align="left">🔮 wordprees | 75%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="475px" height="16px">
