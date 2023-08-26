@@ -19,7 +19,6 @@ class Amirali(Human) :
         "computer",
         "programming",
         "story book",
-        "pop music",
         "English Language"
     ]
 
