@@ -39,7 +39,7 @@ class Amirali(Human) :
 
 <br>
 <h2 align="left">🌱I am currently learning these:</h2>
-<h3 align="left">🔮 java | 10%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="120px" height="16px">
+<h3 align="left">🔮 java | 10%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="100px" height="16px">
 <br>
 <h3 align="left">🔮 html | 30%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="150px" height="16px">
 <br>
