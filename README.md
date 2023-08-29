@@ -65,5 +65,5 @@ class Amirali(Human) :
 
 <p align="left">
 <img  src="https://github-readme-stats.vercel.app/api?username=AmiraliZandi&show_icons=true&theme=radical" alt="AmiraliZandi" width="480" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiraliZandi&layout=compact&hide=html&theme=radical" alt="AmiraliZandi"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=1995parham&theme=monokai" alt="Parham Alvani's Github Steak" />
 </p>
