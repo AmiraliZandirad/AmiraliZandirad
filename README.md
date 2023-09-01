@@ -30,7 +30,7 @@ class Amirali(Human) :
         "python",
         "css",
         "html",
-         
+        "java",
         "English Language"
     ]
     working_on = ["level up my skills", "school website"]
