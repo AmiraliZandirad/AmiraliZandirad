@@ -25,10 +25,12 @@ class Amirali(Human) :
         "story book",
         "English Language"
     ]
+
     learning = [
         "python",
         "css",
         "html",
+         
         "English Language"
     ]
     working_on = ["level up my skills", "school website"]
