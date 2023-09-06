@@ -60,7 +60,4 @@ class Amirali(Human) :
 
 ### :octocat: Github Statistics
 
-<p align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=AmiraliZandi&show_icons=true&theme=radical" alt="AmiraliZandi" width="480" height="180" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiraliZandi&theme=monokai" alt="Amirali Zandi's Github Steak" />
-</p>
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=AmiraliZandi&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=AmiraliZandi&theme=gotham"/></td></tr></table>
