@@ -1,6 +1,6 @@
 <img src=header.svg />
 
-# Hi guys 🙂  [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/AmiraliZandi) 
+# Hi guys 🙂  
 
 <img src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/250d6af04a65ff1f44c627afe80309f951e0a1dd/github-contribution-grid-snake.svg" alt="just for fun :D">
 
