@@ -35,7 +35,7 @@ class Amirali(Human) :
 ```
 ## for learning ? ⭐
 <br>
-<h3 align="left">⭐ Go | 10%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="105px" height="12px">
+<h3 align="left">🐹 Go | 10%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="105px" height="12px">
 <br>
 <br>
 <h3 align="left">⭐ html | 30%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="150px" height="16px">
