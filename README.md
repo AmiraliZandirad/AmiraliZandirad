@@ -54,7 +54,7 @@ class Amirali(Human) :
         <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
         <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
         <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-        <a href="https://go.dev" target="_blank"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAvVBMVEX//////Pu3v8F0g4dUZ2w9Ulg4TlSrtLfL0dJmd3tDWF6gq65Jd4NWlKZiscdpxNxszul03fpfcXZBZnA+XWVborVz2fV24f5x1vFRipuu7f7O9P/Y9//H8/+c6f627/6A4/7x/P/1/f9Yqb9jtMyO5v7s7OxeXFojIB90cnHHxsZGQ0ExLSynpqWgnp0XExF5h4tzmqOVrbQyMjLj29a3ppvDjHSCYFFVQjmvtLG2kHzCpJiwm5DW5erD3uSaBps8AAABMUlEQVR4Ae2QVYKDMBBAg03btJBQYXCpu7vd/1hLsu76uQ8becTIl1FUTTdAYuhaQSEPFEtUKysFCs+geUmjpWLel78Z+V0xLcZtmzPLrAgFBCqpQk3k9YaDT3AbdTA8j4JOoIYcLc/xgzCKUZLkYep4nHMGQGjFbZh2nBFBkCKmoYiaMTKz5YJBCtBmjiuKggQxuI2ylCP3oECISj3eEaVurz/IUIbD0XiSIKsYqshKwHzxnc5ms2Eqw95sNg7RgjkRUHDfFjjoUjDAfnsKB6gUABDvF7mo15f3i0QEeBBSGSnFfr+/Wss4RrSfCIjioDbb3X6/2x6iwEd8KYjC9pajSN4S0FycTqfzooG3OK8El3cV5cLttwXJRVGuiB8IrNVibwlv4/6R8C84nwm2EG4AU35Cl8owfgwAAAAASUVORK5CYII=" alt="Go"/ </a> 
+        <a href="https://go.dev" target="_blank"> <img src="" alt="Go"/ </a> 
 </p>
 
 ### :octocat: Github Statistics
