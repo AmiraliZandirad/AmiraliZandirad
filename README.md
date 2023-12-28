@@ -54,8 +54,7 @@ class Amirali(Human) :
         <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
         <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
         <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-        <a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/php-logo.png" alt="php"/
-        </a> 
+        <a href="https://go.dev" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/go-logo.png" alt="Go"/ </a> 
 </p>
 
 ### :octocat: Github Statistics
