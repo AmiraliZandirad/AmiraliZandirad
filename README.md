@@ -13,8 +13,8 @@ class Amirali(Human) :
     age = 14
     education = "It is still going on"
 
-    programming_lang = ["python", "html", "css"]
-    frameworks = ["kivy", "kivymd", "pyrogram", "telegram-bot", "tkinter",...]
+    programming_lang = ["python", "html", "css", "go" , "solidity"]
+    frameworks = ["kivy", "kivymd", "pyrogram", "telegram-bot", "tkinter", "Web3", "etc"]
 
     Favorites = [
         "computer",
@@ -27,10 +27,10 @@ class Amirali(Human) :
         "python",
         "css",
         "html",
-        "java",
+        "salidity",
         "English Language"
     ]
-    working_on = ["level up my skills", "school website"]
+    working_on = ["level up my skills"]
 
 ```
 ## for learning ? ⭐
@@ -43,7 +43,7 @@ class Amirali(Human) :
 
 <h3 align="left">⭐ css | 55%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="275px" height="16px">
 <br>
-<h3 align="left">💪🏻 wordprees | 75%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="475px" height="16px">
+<h3 align="left">💪🏻 solidity | 75%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="475px" height="16px">
 <br>
 <br>
 <h3 align="left"> 🐍 Python | 90%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="600px" height="16px">
