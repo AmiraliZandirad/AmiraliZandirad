@@ -35,13 +35,13 @@ class Amirali(Human) :
 ```
 ## for learning ? ⭐
 <br>
-<h3 align="left">🐹 Go | 10%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="105px" height="12px">
+<h3 align="left">🐹 wordpress | 30%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="150px" height="16px">
 <br>
 <br>
-<h3 align="left">⭐ html | 30%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="150px" height="16px">
+<h3 align="left">⭐ html | 40%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="180px" height="16px">
 <br>
 
-<h3 align="left">⭐ css | 55%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="275px" height="16px">
+<h3 align="left">⭐ css | 60%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="355px" height="16px">
 <br>
 <h3 align="left">💪🏻 solidity | 75%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="475px" height="16px">
 <br>
@@ -54,7 +54,6 @@ class Amirali(Human) :
         <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
         <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
         <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-        <a href="https://go.dev" target="_blank"> <img src="https://github.com/AmiraliZandi/AmiraliZandi/blob/main/image.png" alt="Go"/ </a> 
 </p>
 
 ### :octocat: Github Statistics
