@@ -55,6 +55,7 @@ class Amirali(Human) :
         <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
         <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
         <a href="https://solidity-by-example.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/solidity"/> </a>
+        <a href="https://wordpress.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress"/> </a>
     
 </p>
 
