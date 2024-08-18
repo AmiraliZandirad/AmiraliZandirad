@@ -35,7 +35,7 @@ class Amirali(Human) :
 ```
 ## for learning ? ⭐
 <br>
-<h3 align="left">🐹 wordpress | 30%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="150px" height="16px">
+<h3 align="left">🛠️ wordpress | 30%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="150px" height="16px">
 <br>
 <br>
 <h3 align="left">⭐ html | 40%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="180px" height="16px">
@@ -43,7 +43,7 @@ class Amirali(Human) :
 
 <h3 align="left">⭐ css | 60%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="355px" height="16px">
 <br>
-<h3 align="left">💪🏻 solidity | 75%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="475px" height="16px">
+<h3 align="left">🌐 solidity | 75%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="475px" height="16px">
 <br>
 <br>
 <h3 align="left"> 🐍 Python | 90%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="600px" height="16px">
