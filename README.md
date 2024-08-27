@@ -14,7 +14,7 @@ class Amirali(Human) :
     education = "It is still going on"
 
     programming_lang = ["python", "html", "css", "go" , "solidity"]
-    frameworks = ["kivy", "pandas", "Numpy", "kivymd", "pyrogram", "telegram-bot", "tkinter" , "Web3", "hashlib", "smartcontract"]
+    frameworks = ["kivy", "pandas", "Numpy", "kivymd", "pyrogram", "telegram-bot", "open-cv" , "Web3", "hashlib", "smartcontract"]
 
     Favorites = [
         "computer",
