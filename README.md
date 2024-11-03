@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/250d6af04a65ff1f44c627afe80309f951e0a1dd/github-contribution-grid-snake.svg" alt="just for fun :D">
 
-## how I am ? 🤔
+## How am i ? 🤔
 ```py
 from Universe.Earth import Human
 
