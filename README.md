@@ -61,4 +61,4 @@ class Amirali(Human) :
 
 ### :octocat: Github Statistics
 
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=AmiraliZandi&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=AmiraliZandi&theme=gotham"/></td></tr></table>
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=AmiraliZandirad&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=AmiraliZandirad&theme=gotham"/></td></tr></table>
