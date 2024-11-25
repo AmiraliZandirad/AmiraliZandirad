@@ -9,7 +9,7 @@
 from Universe.Earth import Human
 
 class Amirali(Human) :
-    full_name = "AmirAli Zandi Rad"
+    full_name = "AmiraliZandirad"
     age = 14
     education = "It is still going on"
 
