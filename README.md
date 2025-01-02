@@ -13,24 +13,23 @@ class Amirali(Human) :
     age = 14
     education = "It is still going on"
 
-    programming_lang = ["python", "html", "css", "go" , "solidity"]
-    frameworks = ["kivy", "pandas", "Numpy", "kivymd", "pyrogram", "telegram-bot", "open-cv" , "Web3", "hashlib", "smartcontract"]
+    programming_lang = ["python", "solidity"]
+    frameworks = ["kivy", "kivymd", "Numpy", "pandas", "pyrogram", "telegram-bot", "open-cv" , "Web3", "hashlib"]
 
     Favorites = [
-        "computer",
+        "AI",
         "programming",
         "story book",
         "English Language"
     ]
 
     learning = [
-        "python",
-        "css",
-        "html",
+        "python":
+            "Machine learning",
         "salidity",
         "English Language"
     ]
-    working_on = ["level up my skills"]
+    working_on = ["learning Machine learning in Sharif University"]
 
 ```
 ## for learning ? ⭐
