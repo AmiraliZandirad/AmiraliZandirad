@@ -26,7 +26,7 @@ class Amirali(Human) :
     learning = [
         "python":
             "Machine learning",
-        "salidity",
+        "solidity",
         "English Language"
     ]
     working_on = ["learning Machine learning in Sharif University"]
