@@ -2,7 +2,7 @@
 # Hi guys 🙂 
 
 
-<img src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/250d6af04a65ff1f44c627afe80309f951e0a1dd/github-contribution-grid-snake.svg" alt="just for fun :D">
+<img src="https://github.com/AmiraliZandirad/AmiraliZandirad/blob/main/Amir%20ali.gif" alt="just for fun :D">
 
 ## How am i ? 🤔
 ```py
