@@ -34,7 +34,7 @@ class Amirali(Human) :
 ```
 ## for learning ? ⭐
 <br>
-<h3 align="left">🛠️ wordpress | 30%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="150px" height="16px">
+<h3 align="left">🛠️ MachinLearning | 30%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="150px" height="16px">
 <br>
 <br>
 <h3 align="left">⭐ html | 40%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="180px" height="16px">
